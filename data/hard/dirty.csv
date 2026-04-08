@@ -1,0 +1,109 @@
+transaction_id,customer_name,email,country,category,amount,quantity,date,payment_method,rating
+TXN-0001,Justin Baker,zhurst@example.com,FR,Food,3475.45,2,2024-09-24,Debit Card,5
+TXN-0002,Brenda Snyder PhD,hernandezernest@example.net,United States,Toys,4357.95,12,2025-02-28,Cash,4
+TXN-0003,Janice Carlson,jrice@example.org,UK,Clothing,614.83,7,2025-09-17,Credit Card,1
+TXN-0004,Melanie Herrera,kayla51@example.com,USA,Food,8440.91,13,2025-03-10,Credit Card,3
+TXN-0005,,teresa28@example.org,UK,Electronics,,1,2026-02-12,PayPal,2
+TXN-0006,Sarah Romero,ericfarmer@example.net,Germany,Food,1619.4,9,2025-12-02,Cash,1
+TXN-0007,Tamara George,xsmith@example.com,usa,Clothing,4812.42,7,2024-10-09,Debit Card,3
+TXN-0008,Shawn Arroyo,dennislisa@example.net,USA,Toys,1427.78,17,2025-11-22,PayPal,1
+TXN-0009,Matthew Arroyo,,Canada,Clothing,2058.13,5,2024-09-18,Credit Card,1
+TXN-0010,Nicole Vaughn,raymond57@example.net,UK,Clothing,2657.02,6,2025-03-23,Cash,3
+TXN-0011,Danny Morgan,briannasmith@example.net,uk,Electronics,3642.44,5,2025-08-10,Cash,2
+TXN-0012,Austin Johnson,chad34@example.net,uk,Electronics,$757.83,6,2025-04-19,Wire Transfer,3
+TXN-0013,Carlos Walls,esanchez@example.com,germany,Books,3389.43,19,2024-09-01,Debit Card,
+TXN-0014,Matthew Gomez,uowens@example.org,United Kingdom,Books,3227.64,9,2025-09-12,Credit Card,2
+TXN-0015,Maria Brown,lauren13@example.org,USA,Food,1708.63,18,2024-09-01,Debit Card,
+TXN-0016,Brenda White,ewright@example.com,Germany,Clothing,4910.93,17,2025-12-25,Debit Card,1
+TXN-0017,Krista Williams,novaksara@example.org,Germany,Toys,4502.59,9,2024-08-14,Credit Card,3
+TXN-0018,,martinaaron@example.com,UK,Food,4282.34,1,2024-10-29,Cash,3
+TXN-0019,Rachel Mitchell,smoore@example.org,usa,Books,4493.28,3,2024-05-22,Credit Card,3
+TXN-0020,Kimberly Adkins,williamsthomas@example.net,USA,Toys,1423.19,14,2024-08-07,Debit Card,2
+TXN-0021,Jordan York,larsonemma@example.org,UK,Toys,1125.23,1,2025-02-14,Cash,1
+TXN-0022,Steve Sanchez,harveyrobert@example.net,france,Books,1835.51,8,2025-06-20,PayPal,
+TXN-0023,Taylor Harris,,USA,Books,8440.91,14,2025-08-21,Wire Transfer,
+TXN-0024,Eugene Walton,smithchristine@example.net,UK,Food,3975.08,1,2024-06-23,Cash,
+TXN-0025,Daniel Baker,,france,Books,"$3,613.65",19,2024-08-07,Cash,3
+TXN-0026,Joshua Turner,contrerasangela@example.net,US,Electronics,"$4,972.78",14,2024-06-26,Wire Transfer,3
+TXN-0027,Brandy Wilson,newtoneric@example.com,germany,Electronics,,17,2025-07-20,Wire Transfer,3
+TXN-0028,,william40@example.org,DE,Electronics,381.35,1,2025-08-12,PayPal,2
+TXN-0029,Donald Smith,danagreen@example.net,USA,Clothing,4681.09,3,2025-03-16,Debit Card,
+TXN-0030,Jessica Smith,landryhannah@example.org,UK,Clothing,4387.48,17,2025-06-04,Credit Card,1
+TXN-0031,Jacob Tran,tanderson@example.com,UK,Toys,1486.07,3,2026-03-06,Debit Card,1
+TXN-0032,Valerie Williams,jason31@example.com,FR,Books,"$2,559.16",4,2025-12-03,Wire Transfer,4
+TXN-0033,Shelly Dickson,sarayoung@example.org,usa,Books,4433.65,15,2025-12-19,Cash,2
+TXN-0034,Sierra Johnson,kimberly63@example.com,Canada,Food,2330.66,17,2024-08-08,Cash,2
+TXN-0035,Ashley Brennan,dwalker@example.com,UK,Books,1636.62,8,2024-11-30,Wire Transfer,
+TXN-0036,Shelby Walker,,Germany,Books,3116.34,4,2025-11-28,Wire Transfer,4
+TXN-0037,Martin Ross,sheila14@example.org,UK,Books,668.06,,2025-07-01,Cash,2
+TXN-0038,Deborah Rodriguez,yreed@example.com,uk,Electronics,1997.11,19,2025-03-11,Cash,2
+TXN-0039,Kayla Cruz,jonathanfletcher@example.org,Canada,Toys,,,2025-05-15,Cash,5
+TXN-0040,Kimberly Ball,,USA,Clothing,4576.49,15,2026-03-23,Debit Card,1
+TXN-0041,Erik Charles,william65@example.com,france,Toys,3193.16,7,2025-09-30,Wire Transfer,5
+TXN-0042,Cameron Fisher,lbyrd@example.net,UK,Books,2832.36,19,2025-06-23,Wire Transfer,1
+TXN-0043,Joshua Smith,jason99@example.net,France,Books,234.78,17,2024-12-13,Cash,5
+TXN-0044,Jeremy Lewis,yleon@example.net,Germany,Clothing,3818.01,7,2024-08-16,Cash,1
+TXN-0045,Diane Beck,clarence34@example.org,France,Clothing,3081.17,5,2025-12-24,Cash,2
+TXN-0046,Alexander Sanchez,xcarr@example.org,Germany,Clothing,8440.91,1,2025-03-26,Wire Transfer,5
+TXN-0047,Mark Lee,psnyder@example.org,Germany,Clothing,$137.42,12,2025-08-29,Debit Card,3
+TXN-0048,Stephanie Dalton,osbornejeffery@example.net,Germany,Electronics,2293.97,19,2025-05-14,PayPal,5
+TXN-0049,Justin Lowery,bryantlaurie@example.net,germany,Food,4103.03,8,2025-05-24,Debit Card,
+TXN-0050,Linda Dodson DVM,,Germany,Toys,$351.46,,2026-03-04,Debit Card,5
+TXN-0051,Scott Cole,maryramirez@example.net,UK,Clothing,3416.62,17,2025-04-18,Debit Card,
+TXN-0052,,jimmy55@example.net,CA,Clothing,$121.24,2,2024-06-08,PayPal,1
+TXN-0053,David Benson,calebrussell@example.net,Germany,Clothing,3485.2,13,2025-04-03,PayPal,5
+TXN-0054,Daniel Fisher,gateskathy@example.com,Germany,Electronics,4018.39,4,2025-04-12,Debit Card,5
+TXN-0055,Guy Molina,vmedina@example.net,U.S.A,Food,4952.57,16,2025-12-19,Cash,
+TXN-0056,Connie Robinson,ytucker@example.com,U.S.A,Toys,1196.79,13,2025-09-08,Credit Card,3
+TXN-0057,Jennifer Martin,ncalhoun@example.net,US,Electronics,2673.97,16,2024-04-27,Credit Card,5
+TXN-0058,Leslie Alvarado,dayderek@example.com,UK,Food,1949.06,12,2024-08-26,Wire Transfer,1
+TXN-0059,James Lewis,matthew64@example.com,UK,Books,,14,2024-10-19,Cash,3
+TXN-0060,Julie Curry,cookemichael@example.net,CA,Toys,463.06,12,2024-05-30,Credit Card,4
+TXN-0061,Marissa Webster,jamessmith@example.org,United Kingdom,Toys,3763.11,16,2024-10-09,Credit Card,5
+TXN-0062,Michael Elliott,stevenscott@example.com,FR,Clothing,4871.37,14,2024-08-15,Debit Card,5
+TXN-0063,Tracey Higgins,tamirodriguez@example.org,UK,Toys,1757.82,18,2026-03-29,Cash,1
+TXN-0064,Michael Rubio,,Canada,Clothing,3093.0,,2025-07-10,Wire Transfer,2
+TXN-0065,Lori Garcia,melissa91@example.net,USA,Clothing,"$4,460.03",2,2025-12-05,Wire Transfer,5
+TXN-0066,Joseph Stanley,huntermatthew@example.com,France,Food,2908.62,13,2026-01-05,Credit Card,4
+TXN-0067,Jeffrey Cox PhD,bzimmerman@example.org,USA,Electronics,2961.48,4,2025-10-28,Cash,3
+TXN-0068,Marie Gilbert,umarshall@example.net,France,Books,8440.91,10,2024-11-01,Debit Card,3
+TXN-0069,,nicole37@example.net,UK,Toys,$61.71,8,2025-07-25,Wire Transfer,1
+TXN-0070,Gabrielle Snyder,hunter35@example.com,USA,Food,,17,2024-12-27,Credit Card,1
+TXN-0071,Kyle Beard,blackjames@example.org,France,Clothing,,13,2025-10-18,Wire Transfer,5
+TXN-0072,Justin Allen,fbrewer@example.com,France,Food,4595.98,4,2025-12-13,PayPal,3
+TXN-0073,Edward Sullivan,kevinperkins@example.com,germany,Electronics,,9,2025-06-10,Credit Card,1
+TXN-0074,Jessica Reese,michael74@example.com,France,Food,4506.28,11,2024-10-19,Cash,2
+TXN-0075,,jamesrodgers@example.com,Germany,Books,1681.62,4,2025-10-21,Debit Card,2
+TXN-0076,Paige Carlson,,Germany,Clothing,1333.36,5,2024-08-24,Credit Card,4
+TXN-0077,Michael Martinez,mccannangela@example.net,UK,Electronics,1402.42,13,2024-07-14,Cash,5
+TXN-0078,Nicole Garcia,andrewstaylor@example.com,France,Food,"$4,113.57",18,2024-12-27,PayPal,5
+TXN-0079,Anthony Everett,ewilson@example.com,USA,Clothing,$418.33,18,2025-04-23,PayPal,5
+TXN-0080,Mark Brown,lisaavery@example.org,france,Electronics,3889.12,18,2024-10-16,Credit Card,3
+TXN-0081,Phillip Obrien,kimberlyjames@example.com,France,Clothing,,17,2024-11-23,Wire Transfer,1
+TXN-0082,Wanda Torres,lynchjody@example.org,canada,Electronics,2077.02,1,2025-08-05,Wire Transfer,4
+TXN-0083,Matthew Moore,andreamoore@example.com,U.S.A,Toys,4998.59,6,2025-03-22,PayPal,5
+TXN-0084,Julie Johnson,jasmine71@example.net,France,Toys,"$4,724.10",10,2024-10-05,PayPal,1
+TXN-0085,,ronaldstephens@example.net,France,Electronics,650.15,19,2024-07-31,Wire Transfer,
+TXN-0086,,lauralarson@example.net,Germany,Electronics,3360.14,2,2026-03-23,Cash,2
+TXN-0087,Caleb Barker,gbender@example.net,Canada,Clothing,,3,2025-04-25,PayPal,2
+TXN-0088,Kyle Preston,,Germany,Electronics,2761.77,5,2025-09-12,PayPal,1
+TXN-0089,Laura Sampson,barbara27@example.net,USA,Toys,8440.91,2,2025-08-26,PayPal,3
+TXN-0090,Donald Shea,fwalters@example.org,Germany,Clothing,1756.18,2,2025-04-07,Debit Card,3
+TXN-0091,Gary Santiago,marksteele@example.com,U.K.,Clothing,1744.54,6,2025-09-03,Credit Card,4
+TXN-0092,Robin Pierce,qmiller@example.com,Canada,Food,,4,2024-07-06,Debit Card,1
+TXN-0093,Jennifer Robertson,sandovalamy@example.com,Canada,Electronics,1294.93,5,2024-05-19,Debit Card,5
+TXN-0094,Isaiah Avila,nwolf@example.com,Canada,Toys,,11,2025-06-07,PayPal,3
+TXN-0095,Dwayne Gilmore,omartinez@example.net,USA,Food,$698.44,,2025-12-18,Cash,4
+TXN-0096,Christopher Pierce,hdavis@example.com,US,Food,4372.22,18,2024-07-07,Wire Transfer,2
+TXN-0097,Brittany Cantu,william46@example.com,United Kingdom,Food,4109.84,18,2025-04-08,Cash,2
+TXN-0098,,michellehill@example.com,france,Toys,2745.83,5,2024-12-26,Credit Card,4
+TXN-0099,Katie Hoover,jessica99@example.net,Canada,Clothing,648.1,13,2025-04-22,PayPal,1
+TXN-0100,Jill Washington,andrea86@example.com,Canada,Electronics,2408.32,15,2026-04-01,PayPal,5
+TXN-0017,Krista Williams,novaksara@example.org,Germany,Toys,4502.59,9,2024-08-14,Credit Card,3
+TXN-0091,Gary Santiago,marksteele@example.com,UK,Clothing,1744.54,6,2025-09-03,Credit Card,4
+TXN-0046,Alexander Sanchez,xcarr@example.org,Germany,Clothing,3131.17,1,2025-03-26,Wire Transfer,5
+TXN-0007,Tamara George,xsmith@example.com,United States,Clothing,4812.42,7,2024-10-09,Debit Card,3
+TXN-0074,Jessica Reese,michael74@example.com,FR,Food,4506.28,11,2024-10-19,Cash,2
+TXN-0031,Jacob Tran,tanderson@example.com,UK,Toys,1486.07,3,2026-03-06,Debit Card,1
+TXN-0071,Kyle Beard,blackjames@example.org,france,Clothing,,13,2025-10-18,Wire Transfer,5
+TXN-0032,Valerie Williams,jason31@example.com,France,Books,"$2,559.16",4,2025-12-03,Wire Transfer,4

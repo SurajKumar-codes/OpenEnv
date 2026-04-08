@@ -1,0 +1,31 @@
+sale_id,product,quantity,price,date,region
+1,Doohickey,9,$106.93,07/04/2025,West
+2,Widget A,14,"$1,214.51",20-Feb-2026,North
+3,Widget B,-2,"$1,029.51",2025.04.19,East
+4,Gadget Y,7,$918.90,"February 13, 2026",West
+5,Gadget X,14,$592.68,08/07/2025,South
+6,Gadget Y,2,$643.48,09-Sep-2025,South
+7,Widget B,4,$285.43,2025.07.19,East
+8,Widget B,26,$680.13,"May 02, 2025",South
+9,Gadget Y,-14,"$1,093.64",06/27/2025,East
+10,Gadget Y,40,"$1,268.36",27-Mar-2026,North
+11,Widget B,47,"$1,244.82",2025.11.13,South
+12,Widget A,45,$219.98,"March 13, 2026",East
+13,Doohickey,1,$33.30,01/10/2026,North
+14,Widget A,44,$447.30,07-Aug-2025,East
+15,Gadget X,-17,"$1,069.90",2025.06.28,East
+16,Widget A,5,"$1,390.19","December 17, 2025",South
+17,Widget A,28,"$1,296.02",10/17/2025,West
+18,Gadget Y,34,$152.16,07-Sep-2025,East
+19,Doohickey,35,$891.03,2026.03.16,South
+20,Gadget X,-35,$713.60,"March 28, 2026",North
+21,Gadget X,1,"$1,085.38",12/12/2025,East
+22,Gadget X,9,"$1,068.89",02-Oct-2025,South
+23,Widget B,13,$310.56,2025.06.01,West
+24,Widget A,-32,"$1,046.32","July 18, 2025",North
+25,Doohickey,15,"$1,135.77",05/31/2025,West
+1,Doohickey,9,$106.93,07/04/2025,West
+6,Gadget Y,2,$643.48,09-Sep-2025,South
+11,Widget B,47,"$1,244.82",2025.11.13,South
+16,Widget A,5,"$1,390.19","December 17, 2025",South
+21,Gadget X,1,"$1,085.38",12/12/2025,East

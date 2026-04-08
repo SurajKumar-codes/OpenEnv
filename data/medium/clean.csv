@@ -1,0 +1,26 @@
+sale_id,product,quantity,price,date,region
+1,Doohickey,9,106.93,2025-07-04,West
+2,Widget A,14,1214.51,2026-02-20,North
+3,Widget B,2,1029.51,2025-04-19,East
+4,Gadget Y,7,918.9,2026-02-13,West
+5,Gadget X,14,592.68,2025-08-07,South
+6,Gadget Y,2,643.48,2025-09-09,South
+7,Widget B,4,285.43,2025-07-19,East
+8,Widget B,26,680.13,2025-05-02,South
+9,Gadget Y,14,1093.64,2025-06-27,East
+10,Gadget Y,40,1268.36,2026-03-27,North
+11,Widget B,47,1244.82,2025-11-13,South
+12,Widget A,45,219.98,2026-03-13,East
+13,Doohickey,1,33.3,2026-01-10,North
+14,Widget A,44,447.3,2025-08-07,East
+15,Gadget X,17,1069.9,2025-06-28,East
+16,Widget A,5,1390.19,2025-12-17,South
+17,Widget A,28,1296.02,2025-10-17,West
+18,Gadget Y,34,152.16,2025-09-07,East
+19,Doohickey,35,891.03,2026-03-16,South
+20,Gadget X,35,713.6,2026-03-28,North
+21,Gadget X,1,1085.38,2025-12-12,East
+22,Gadget X,9,1068.89,2025-10-02,South
+23,Widget B,13,310.56,2025-06-01,West
+24,Widget A,32,1046.32,2025-07-18,North
+25,Doohickey,15,1135.77,2025-05-31,West
