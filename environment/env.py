@@ -160,9 +160,10 @@ class DataCleaningEnv:
             "steps_remaining": self._max_steps - self._steps_taken,
         }
 
-        # Normalise the cumulative reward to [0, 1]
+        # Normalise the cumulative reward to (0, 1)
         max_possible = self._total_errors * 0.15 + self.BONUS_FINAL  # rough upper bound
-        normalised_reward = max(0.0, min(1.0, self._cumulative_reward / max_possible)) if max_possible > 0 else 0.0
+        raw_reward = self._cumulative_reward / max_possible if max_possible > 0 else 0.0
+        normalised_reward = max(0.01, min(0.99, raw_reward))
 
         return obs, round(normalised_reward, 4), self._done, info
 
@@ -228,7 +229,8 @@ class DataCleaningEnv:
     def _build_state(self) -> State:
         """Construct the State object."""
         max_possible = self._total_errors * 0.15 + self.BONUS_FINAL
-        score = max(0.0, min(1.0, self._cumulative_reward / max_possible)) if max_possible > 0 else 0.0
+        raw_score = self._cumulative_reward / max_possible if max_possible > 0 else 0.0
+        score = max(0.01, min(0.99, raw_score))
 
         return State(
             task_id=self._task_id,

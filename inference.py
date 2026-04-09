@@ -232,9 +232,9 @@ def run_task(client: OpenAI, env: DataCleaningEnv, task_id: str) -> dict:
             if done:
                 break
 
-        # Compute final score (use the last cumulative reward, clamped to [0, 1])
+        # Compute final score (use the last cumulative reward, clamped strictly between 0 and 1)
         final_state = env.state()
-        score = max(0.0, min(1.0, final_state.score_so_far))
+        score = max(0.01, min(0.99, final_state.score_so_far))
         success = score >= 0.1  # threshold for "success"
 
     except Exception as exc:
