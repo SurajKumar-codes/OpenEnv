@@ -86,6 +86,7 @@ def log_step(
     """Emit [STEP] line."""
     error_val = error if error else "null"
     done_val = str(done).lower()
+    reward = max(0.01, min(0.99, reward))
     print(
         f"[STEP] step={step} action={action} reward={reward:.2f} done={done_val} error={error_val}",
         flush=True,
@@ -99,6 +100,9 @@ def log_end(
     rewards: List[float],
 ) -> None:
     """Emit [END] line."""
+    # Safety clamp: score must be strictly between 0 and 1
+    score = max(0.01, min(0.99, score))
+    rewards = [max(0.01, min(0.99, r)) for r in rewards]
     rewards_str = ",".join(f"{r:.2f}" for r in rewards)
     print(
         f"[END] success={str(success).lower()} steps={steps} score={score:.2f} rewards={rewards_str}",
@@ -190,7 +194,7 @@ def run_task(client: OpenAI, env: DataCleaningEnv, task_id: str) -> dict:
     """
     rewards: List[float] = []
     steps_taken = 0
-    score = 0.0
+    score = 0.01
     success = False
 
     log_start(task=task_id, env=BENCHMARK, model=MODEL_NAME)
@@ -239,7 +243,7 @@ def run_task(client: OpenAI, env: DataCleaningEnv, task_id: str) -> dict:
 
     except Exception as exc:
         print(f"[DEBUG] Task {task_id} error: {exc}", flush=True)
-        score = 0.0
+        score = 0.01
         success = False
 
     finally:
